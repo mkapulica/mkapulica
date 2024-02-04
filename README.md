@@ -3,7 +3,7 @@
 ## 🙋‍♂️ About Me
 
 - 🌱 My journey in tech has been a rich tapestry - from writing assembly code for RISC computers, working with sensors and LEDs, to high-level application development with frameworks such as Flutter.
-- 💼 Currently enhancing a pivotal ERP system for universities and exploring new projects.
+- 💼 Currently enhancing a pivotal information system for universities and exploring new projects.
 - 🎓 Advancing my knowledge with a degree in IT Management.
 - 🌍 Based in beautiful Croatia 🇭🇷.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/kapulica).
